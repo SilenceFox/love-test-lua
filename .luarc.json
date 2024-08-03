@@ -1,0 +1,24 @@
+{
+    "runtime.version": "LuaJIT",
+    "diagnostics.globals": [
+        "vim",
+        "use",
+        "s",
+        "sn",
+        "i",
+        "rep",
+        "c",
+        "d",
+        "f",
+        "t",
+        "fmta",
+        "fmt",
+        "ngx"
+    ],
+    "workspace.library": [
+        "/usr/share/nvim/runtime",
+        "/home/doot/.luarocks/share/lua/5.4",
+        "/usr/share/lua/5.4",
+        "${3rd}/love2d/library"
+    ]
+}
